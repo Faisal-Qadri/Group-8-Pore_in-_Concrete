@@ -5,3 +5,4 @@ As a way of variety, each student tried to deviate a little from the main work. 
 ![training and testing loss](/loss.PNG)
 
 ![training and testing accuracy](/accuracy.PNG)
+
