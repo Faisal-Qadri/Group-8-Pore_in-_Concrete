@@ -2,4 +2,4 @@
 
 # [Introduction](https://github.com/Faisal-Qadri/Group-8-Pore_in-_Concrete/blob/master/Introduction.md)
 
-# [Discussion](Discission.md) 
+# [Discussion](https://github.com/Faisal-Qadri/Group-8-Pore_in-_Concrete/blob/master/Discussion.md)
